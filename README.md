@@ -5,3 +5,5 @@
     - 参考: https://www.publickey1.jp/blog/18/javajavascriptnashornecmascriptgraalvm.html
 
 また本書はそのタイトルにある通り、JavaSE8で新たに追加された機能に関して学習を進めるものですが、本書の演習問題の回答にあたってはJava10を利用しています。つまりJava10現在で利用できる機能については、特段の明記なしに使用しています(ex. ローカル変数の型変換など)
+
+参考http://nekotheshadow.hatenablog.com/entry/2018/09/23/223155?_ga=2.37540903.605516043.1537702416-746574989.1527256880
